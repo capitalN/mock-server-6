@@ -1,101 +1,39 @@
 {
-  "books": [
+  "dogs": [
     {
-      "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "science",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": "3000",
-      "borrowed": false
+      "name": "Americano",
+      "age": "30",
+      "gender": "male",
+      "place": "54",
+      "id": 1
     },
     {
-      "id": 2,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "science",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "name": "puppy",
+      "age": "20",
+      "gender": "male",
+      "place": "goa",
+      "id": 2
     },
     {
-      "id": 3,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 3000,
-      "borrowed": false
+      "name": "kitty",
+      "age": "15",
+      "gender": "female",
+      "place": "banglore",
+      "id": 3
     },
     {
-      "id": 4,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "tech",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 2000,
-      "borrowed": false
+      "name": "suzi",
+      "age": "10",
+      "gender": "female",
+      "place": "sa",
+      "id": 4
     },
     {
-      "id": 5,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "business",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 4000,
-      "borrowed": false
-    },
-    {
-      "id": 7,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "tech",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1500,
-      "borrowed": false
-    },
-    {
-      "id": 8,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "tech",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 9000,
-      "borrowed": false
-    }
-  ],
-  "users": [
-    {
-      "id": "admin@gmail.com",
-      "username": "admin",
-      "email": "admin@gmail.com",
-      "password": "masai"
-    },
-    {
-      "id": "nikhil@gmail.com",
-      "username": "nikhil",
-      "email": "nikhil@gmail.com",
-      "password": "nikhil"
-    },
-    {
-      "username": "mamu",
-      "email": "mamu@gmail.com",
-      "password": "mamu",
-      "id": "mamu@gmail.com"
+      "name": "dogor",
+      "age": "25",
+      "gender": "male",
+      "place": "aug",
+      "id": 5
     }
   ]
 }
